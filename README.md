@@ -9,7 +9,7 @@ The `webfont-ubuntu` package simplifies self-hosting the [Ubuntu Font](https://f
 Install the package:
 
 ```bash
-$ npm install -S webfont-ubuntu
+npm install -S webfont-ubuntu
 ```
 
 Import it into your main stylesheet:
@@ -91,15 +91,15 @@ Alternatively, if you're using Tailwind CSS:
 
 1. Install dependencies:
 ```bash
-$ npm install
+npm install
 ```
 
 2. Build the package:
 ```bash
-$ npm start
+npm start
 ```
 
 3. Publish to `npm`:
 ```bash
-$ npm publish
+npm publish
 ```
