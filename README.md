@@ -9,7 +9,7 @@ The `webfont-ubuntu` package simplifies self-hosting the [Ubuntu Font](https://f
 Install the package:
 
 ```bash
-npm install -S webfont-ubuntu
+npm i -S webfont-ubuntu
 ```
 
 Import it into your main stylesheet:
@@ -80,26 +80,3 @@ Alternatively, if you're using Tailwind CSS:
 ## Acknowledgments
 
 - [Google Fonts](https://fonts.google.com/specimen/Ubuntu)
-
-
-
-
-
-<br/>
-
-## Deployment
-
-Install dependencies:
-```bash
-npm install
-```
-
-Build the package:
-```bash
-npm start
-```
-
-Publish to `npm`:
-```bash
-npm publish
-```
