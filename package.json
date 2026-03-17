@@ -1,6 +1,6 @@
 {
   "name": "webfont-ubuntu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The webfont-ubuntu package simplifies self-hosting the Ubuntu Font for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind.",
   "main": "dist/index.css",
   "scripts": {
@@ -32,6 +32,6 @@
   "devDependencies": {
     "eslint-config-prettier": "10.1.5",
     "prettier": "3.6.2",
-    "webfont-builder": "1.0.6"
+    "webfont-builder": "1.0.7"
   }
 }
